@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+body {
+	font-family: Arial, snas-serif;
+	margin: 20px;
+}
+
+#fname {
+	padding: 6px 8px;
+	font-size: 16px;
+	width: 250px;
+}
